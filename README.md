@@ -5,3 +5,4 @@
 
 This template Project lets you create new project since XCode 11+ in Objective-C and run it on older devices without UISceneDelegate added by Apple since iOS 13
 
+For ye olde-school Objective-C coders 😏🏴‍☠️
